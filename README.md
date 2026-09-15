@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
