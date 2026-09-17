@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lakshya-upadhyay/Leetcode-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
